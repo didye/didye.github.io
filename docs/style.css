@@ -69,10 +69,10 @@ img {
 .content a:hover {
     text-decoration: none;
     font-weight: bold;
-    color: var(--header-color);
-    background: var(--body-bg);
-    color: var(--header-color);
-    border: 2px outset var(--border-color);
+    color: var(--bg-color);
+    background: var(--border-color);
+    color: var(--body-bg);
+    border: 2px outset var(--header-color);
     border-radius: 5px;
     padding: 0.5rem 1rem 0.5rem 0.8rem;
 }
@@ -81,6 +81,14 @@ p,
 ul {
     color: #282828;
     font-weight: bold;
+}
+em {
+    margin-top:1rem;
+    display: block;
+    font-size: smaller;
+    color: var(--border-color);
+    font-weight: normal;
+    font-style: normal;
 }
 
 .social-icons {
