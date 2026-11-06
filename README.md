@@ -1,2 +1,3 @@
 # didye.github.io
-website for didye
+
+landing page for website maker running in codespaces made by [sue](https://github.com/suesmith)
