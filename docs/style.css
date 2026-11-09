@@ -1,11 +1,11 @@
 :root {
     --wrapper-height: 80vh;
     --font-family: monospace;
-    --header-color: blue;
-    --bg-color: cyan;
-    --body-bg: yellow;
+    --header-color: navy;
+    --bg-color: skyblue;
+    --body-bg: khaki;
     --image-max-width: 140px;
-    --border-color: red;
+    --border-color: crimson;
 }
 
 body {
@@ -122,7 +122,7 @@ em {
 footer {
     padding: 1rem;
     text-align: right;
-    max-width: 800px;
+    max-width: 80%;
     margin: 0 auto;
 }
 
